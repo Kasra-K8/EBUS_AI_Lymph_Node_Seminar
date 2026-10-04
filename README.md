@@ -187,7 +187,7 @@ My subsequent research has focused on deep learning, medical image analysis, and
 
 The original seminar presentation was prepared and presented in **Persian**.
 
-📄 [View the full seminar presentation](presentation/EBUS_AI_Lymph_Node_Seminar_FA.pdf)
+📄 [View the full seminar presentation](EBUS_AI_Lymph_Node_Seminar_FA.pdf)
 
 This README provides an English overview for international readers.
 
@@ -200,8 +200,6 @@ This work received university-level recognition for the quality of the seminar p
 🏆 **Best Biomedical Engineering Seminar  K. N. Toosi University of Technology**
 
 The seminar was also selected among the outstanding seminar presentations across the university.
-
-Supporting award documentation is available in the [`awards/`](awards/) directory.
 
 ---
 
